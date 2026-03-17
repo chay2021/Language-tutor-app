@@ -61,7 +61,7 @@ This app uses `window.storage` (Claude Artifact persistent storage) for session 
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after deployment)*
+interfae UI <img width="1002" height="861" alt="image" src="https://github.com/user-attachments/assets/232fab02-7999-429a-b2d2-25a9012a7ac5" />
 
 ---
 
